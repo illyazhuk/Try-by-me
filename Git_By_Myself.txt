@@ -1,1 +1,2 @@
 Use this to try experiment on GIT
+What about "diff"?
